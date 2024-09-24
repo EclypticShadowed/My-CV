@@ -1,0 +1,51 @@
+body{
+	border-color: #000;
+	border-width: 8px;
+	border-style: solid;
+	margin: 0px;
+}
+.name{
+	color: #000;
+	font-size: 28px;
+	font: arial;
+	padding-left: 60px;
+	padding-bottom: 0px;
+	margin-bottom: 0px;
+	
+}
+.title{
+	color: blueviolet;
+	font-size: 20px;
+	padding-left: 60px;
+	margin-top: 0px;
+}
+.info{
+	color: #000;
+	font-size: 20px;
+	padding-left: 60px;
+	margin-top: 0px;
+}
+.skills{
+	color: #000;
+	font-size: 20px;
+	padding-left: 60px;
+	margin-top: 0px;
+}
+.education{
+	color: #000;
+	font-size: 20px;
+	padding-left: 60px;
+	margin-top: 0px;
+}
+.ATI{
+	color: #000;
+	font-size: 20px;
+	padding-left: 60px;
+	margin-top: 0px;
+}
+.experience{
+	color: #000;
+	font-size: 20px;
+	padding-left: 60px;
+	margin-top: 0px;
+}
