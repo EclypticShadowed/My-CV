@@ -1,1 +1,3 @@
-Click on the Cv.HTML to open my CV
+Download the CV.HTML and CV.css files
+Open The CV.HTML
+View my CV
